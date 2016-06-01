@@ -24,3 +24,6 @@ You may also get a prompt that asks if you wish to create a new directory in whi
 
 If any particular package fails to install (in particular rgdal or rgeos) don't worry. 
 We can complete most of the tutorial without these packages if necessary.
+
+## Download the contents of this repository 
+Click the green "clone or download" button at the top, and "Download Zip"
