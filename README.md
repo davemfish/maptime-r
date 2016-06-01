@@ -8,6 +8,8 @@ See the download links at the top of this page:
 https://cran.r-project.org/
 
 ## Install Rstudio Desktop
+make sure you have already installed R (see above)
+
 https://www.rstudio.com/products/rstudio/download/
 
 ## Install the packages we will use
