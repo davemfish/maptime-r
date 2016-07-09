@@ -1,5 +1,5 @@
 # maptime-r
-This repo includes materials for an R tutorial for the Maptime Seattle group. If you are another Maptime group and would like to re-use these materials, please do so.
+This repo includes materials for an R tutorial for the Maptime Seattle group. It is aimed at introducing R and it's geospatial capabilities to non-programmers that have general interest in GIS and spatial analysis. If you are another Maptime group and would like to re-use these materials, please do so.
 
 # Follow these steps to get setup for Maptime
 ## Install R
