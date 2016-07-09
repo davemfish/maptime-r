@@ -1,5 +1,5 @@
 # maptime-r
-This repo includes materials for an R tutorial for the Maptime Seattle group
+This repo includes materials for an R tutorial for the Maptime Seattle group. If you are another Maptime group and would like to re-use these materials, please do so.
 
 # Follow these steps to get setup for Maptime
 ## Install R
@@ -28,4 +28,3 @@ If any particular package fails to install (in particular rgdal or rgeos) don't 
 We can complete most of the tutorial without these packages if necessary.
 
 ## Download the contents of this repository 
-Click the green "clone or download" button at the top, and "Download Zip"
